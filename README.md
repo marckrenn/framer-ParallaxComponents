@@ -17,4 +17,4 @@ Read the article on [Medium](https://medium.com).
 
 
 ## Contact & Help
-If you need further assistance or want to leave me some feedback, you can reach me via [Twitter](https://twitter.com/marc_krenn), [Facebook](https://www.facebook.com/groups/framerjs/permalink/) or [Slack](https://framer-slack-signup.herokuapp.com/) or here on Github.
+If you need further assistance or want to leave me some feedback, you can reach me via [Twitter](https://twitter.com/marc_krenn), [Facebook](https://www.facebook.com/groups/framerjs/permalink/1187824361344633/) or [Slack](https://framer-slack-signup.herokuapp.com/) or here on Github.
