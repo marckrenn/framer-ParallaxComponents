@@ -11,10 +11,11 @@ Read the article on [Medium](https://medium.com).
 
 ## Demo Projects
 
-[ParallaxPageComponent](https://framer.cloud/bCUnQ)
+[parallaxPageComponent](https://framer.cloud/bCUnQ)
 
-[ParallaxScrollComponent](https://framer.cloud/XIJJj)
+[parallaxScrollComponent](https://framer.cloud/XIJJj)
 
+[parallaxStaticLabel](https://framer.cloud/rySfn/)
 
 ## Contact & Help
 If you need further assistance or want to leave me some feedback, you can reach me via [Twitter](https://twitter.com/marc_krenn), [Facebook](https://www.facebook.com/groups/framerjs/permalink/1187824361344633/) or [Slack](https://framer-slack-signup.herokuapp.com/) or here on Github.
