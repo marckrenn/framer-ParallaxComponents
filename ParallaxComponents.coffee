@@ -84,7 +84,7 @@ class exports.ParallaxScrollComponent extends ScrollComponent
 	constructor: ->
 		super
 
-		@content.onChange "children", => setupParallax(this)
+		@content.onChange "children", => Utils.delay 0, => setupParallax(this)
 
 		for axis in ["x", "y", "z"]
 			do (axis) => @content.onChange axis, => applyParallax(this, axis, @content[axis])
