@@ -6,7 +6,7 @@
 Extends Framer's *Page*- and *ScrollComponents* with a consistent parallax scrolling effect.
 <br />
 <br />
-Read the article on [Medium](https://medium.com).
+Read the article on [Medium](https://blog.framer.com/parallax-6292c10d2be).
 <br />
 
 ## Demo Projects
