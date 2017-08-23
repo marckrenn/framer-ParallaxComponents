@@ -9,11 +9,15 @@ Extends Framer's *Page*- and *ScrollComponents* with a consistent parallax scrol
 Read the article on [Medium](https://blog.framer.com/parallax-6292c10d2be).
 <br />
 
+<a href='https://open.framermodules.com/ParallaxComponents'>
+    <img alt='Install with Framer Modules'
+    src='https://www.framermodules.com/assets/badge@2x.png' width='160' height='40' /></a>
+
 ## Demo Projects
 
-[parallaxPageComponent](https://framer.cloud/bCUnQ)
+[parallaxScrollComponent](https://framer.cloud/bCUnQ)
 
-[parallaxScrollComponent](https://framer.cloud/XIJJj)
+[parallaxPageComponent](https://framer.cloud/XIJJj)
 
 [parallaxStaticLabel](https://framer.cloud/rySfn/)
 

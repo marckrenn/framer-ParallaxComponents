@@ -1,0 +1,11 @@
+{
+    "name": "ParallaxComponents",
+    "description": "Extends Framer's Page- and ScrollComponents with a consistent parallax scrolling effect.",
+    "author": "Marc Krenn",
+
+    "require": "{ParallaxPageComponent, ParallaxScrollComponent} = require 'ParallaxComponents'",
+    "install": "ParallaxComponents.coffee",
+    "example": "example.coffee",
+
+    "thumb": "parallaxComponents.png"
+}
